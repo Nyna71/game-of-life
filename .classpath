@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="gameoflife-core/src/main/java/|gameoflife-core/src/test/java/|gameoflife-web/src/main/java/|gameoflife-web/src/main/java/|gameoflife-web/src/test/java/|gameoflife-web/src/test/java/" kind="src" path=""/>
+	<classpathentry kind="src" path="gameoflife-core/src/main/java"/>
+	<classpathentry kind="src" path="gameoflife-core/src/test/java"/>
+	<classpathentry kind="src" path="gameoflife-web/src/main/java"/>
+	<classpathentry kind="src" path="gameoflife-web/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
